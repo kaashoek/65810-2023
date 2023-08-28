@@ -1,0 +1,63 @@
+<!doctype html>
+<head>
+<html lang="en">
+<title>Projects</title>
+</head>
+
+<body>
+
+  <p>If you don't have a project in mind, below are some suggestions
+    for possible projects. Many of these involve SigmaOS, because that
+    is what I am thinking about, but it is not a requirement to use
+    SigmaOS (or use any suggestion from the list). Some of the
+    suggestions can probably be morphed into a SigmaOS-independent
+    direction. Most of the suggestions below are not well-defined
+    projects; they are a starting point for brainstorming.
+
+  <ul>
+    <li>Application focused:
+    <ul>
+      <li> build/port Ray-like system to SigmaOS
+      <li> build a gg-like system for SigmaOS
+      <li> implement ExoFlow in SigmaOS's MapReduce library
+    </ul>
+    <li>Infrastructure focused:
+      <ul>
+	<li> implement WASM-based procs
+	<li> support Python in SigmaOS
+	<li> support many named's backed by one (or more) etcd's
+	<li> use image-less containers to speed up Kubernetes
+	<li> make SigmaOS run across clouds
+	<li> make a vector-db cache
+	<li> migrate procs
+      </ul>
+    <li>Fault-tolerance focused:
+      <ul>
+	<li> extend kvd's replicated state-machine library with blocking ops
+	<li> make kvd store its state persistently
+	<li> chain replicate kvd shards instead of using etcd's RAFT
+	<li> make state of microservices fault tolerant
+      </ul>
+    <li>Security focused:
+      <ul>
+	<li> fuzz the proc-container interface
+	<li> make a proc escape its realm in an interesting way
+	<li> avoid running docker service as root
+      </ul>
+    <li>Utilization/performance focused:
+      <ul>
+	<li> Measure/study cgroup-based performance isolation
+	<li> Measure/study Kubernetes controler and make it faster
+	<li> Explore using swapping for BE and LC procs to share memory
+	<li> Make kvd elastic with load changes
+	<li> Use bidding/spot market for realms
+      </ul>
+    <li>Hardware focused:
+      <ul>
+	<li> Use RDMA to speed up, for example, non-linearizable reads
+	in etcd
+	<li> Allow procs to use GPUs
+      </ul>
+  </ul>
+  
+</body>
