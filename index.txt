@@ -51,8 +51,7 @@ of the class.
 
     <td>
       <a href="">SigmaOS tutorial</a>,
-      <a href="https://www.usenix.org/system/files/atc19-duplyakin_0.pdf">The
-  Design and Operation of CloudLab</a>
+      #paper#
     </td>
 
     <td>
@@ -74,9 +73,7 @@ of the class.
     </td>
 
     <td>
-      <a href="https://www.usenix.org/system/files/nsdi19-pu.pdf">Shuffling,
-  Fast and Slow: Scalable Analytics on Serverless Infrastructure
-  (2019)</a>
+      #paper#
     </td>
 
     <td>
@@ -91,9 +88,7 @@ of the class.
     </td>
 
     <td>
-      <a href="https://www.usenix.org/system/files/atc19-fouladi.pdf">From
-  Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of
-  Transient Functional Containers (2019)</a>
+      #paper#
     </td>
 
     <td>
@@ -106,7 +101,7 @@ of the class.
       Mon 9/18
     </td>
     <td>
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3419111.3421277">Kappa: a programming framework for serverless computing (2020)</a>
+      #paper#
     </td>
   </tr>
 
@@ -116,7 +111,7 @@ of the class.
       Wed 9/20
     </td>
     <td>
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3477132.3483541">Boki: Stateful Serverless Computing with Shared Logs (2021)</a>
+      #paper#
     </td>
     <td>
       Project proposal
@@ -133,8 +128,7 @@ of the class.
       Mon 9/25
     </td>
     <td>
-      <a href="https://www.usenix.org/system/files/nsdi20-paper-agache.pdf">Firecracker:
-  Lightweight Virtualization for Serverless Applications</a>
+      #paper#
     </td>
 
   </tr>
@@ -145,8 +139,7 @@ of the class.
       Wed 9/27
     </td>
     <td>
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3381052.3381315">Blending
-  Containers and Virtual Machines: A Study of Firecracker and gVisor (2020)</a>
+      #paper#
     </td>
   </tr>
 
@@ -155,8 +148,7 @@ of the class.
       Mon 10/2
     </td>
     <td>
-      <a href="https://www.usenix.org/system/files/atc20-shillaker.pdf">Faasm:
-  Lightweight Isolation for Efficient Stateful Serverless Computing (2020)</a>
+      #paper#
     </td>
     <td>
       Project design report
@@ -201,8 +193,7 @@ of the class.
       Mon 10/16
     </td>
     <td>
-      <a href="https://www.usenix.org/system/files/atc23-brooker.pdf">On-demand
-  Container Loading in AWS Lambda (2023)</a>
+      #paper#
     </td>
   </tr>
 
@@ -211,9 +202,7 @@ of the class.
       Wed 10/18
     </td>
     <td>
-      <a href="https://www.usenix.org/system/files/atc20-shahrad.pdf">
-Serverless in the Wild: Characterizing and Optimizing the Serverless
-Workload at a Large Cloud Provider (2020)</a>
+      #paper#
     </td>
   </tr>
 
@@ -242,8 +231,7 @@ Workload at a Large Cloud Provider (2020)</a>
       Mon 10/30
     </td>
     <td>
-      <a href="https://www.microsoft.com/en-us/research/uploads/prod/2021/09/sosp21-final604.pdf">Faster
-  and cheaper serverless computing on harvested resources (2021)</a>
+      #paper#
     </td>
     <td>
     <td>
@@ -259,8 +247,7 @@ Workload at a Large Cloud Provider (2020)</a>
       Wed 11/1
     </td>
     <td>
-      <a href="https://www.usenix.org/system/files/osdi18-klimovic.pdf">Pocket:
-elastic ephemeral storage for serverless analytics (2018)</a>
+      #paper#
     </td>
   </tr>
 
@@ -269,8 +256,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Mon 11/6
     </td>
     <td>
-      <a href="http://www.vldb.org/pvldb/vol13/p2438-sreekanti.pdf">Cloudburst:
-  Stateful Functions-as-a-Service (2020)</a>
+      #paper#
     </td>
   </tr>
 
@@ -279,8 +265,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Wed 11/8
     </td>
     <td>
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3318464.3380609">Starling:
-  a scalable query engine on cloud functions (2020)</a>
+      #paper#
     </td>
   </tr>
 
@@ -289,8 +274,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Mon 11/13
     </td>
     <td>
-      <a href="https://arxiv.org/pdf/2208.13068">Apiary: A DBMS-Integrated
-  Transactional Function-as-a-Service Framework (2022)</a>
+      #paper#
     </td>
     <td>
       Project initial result report
@@ -325,8 +309,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Wed 11/22
     </td>
     <td>
-      <a href="https://stephanie-wang.github.io/pdfs/nsdi21-ownership.pdf">Ownership:
-  A Distributed Futures System for Fine-Grained Tasks (2021)</a>
+      #paper#
     </td>
   </tr>
 
@@ -335,9 +318,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Mon 11/27
     </td>
     <td>
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3445814.3446701">Nightcore:
-  efficient and scalable serverless computing for latency-sensitive,
-  interactive microservices (2021)</a>
+      #paper#
     </td>
   </tr>
 
@@ -346,9 +327,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Wed 11/29
     </td>
     <td>
-      <a href="https://www.usenix.org/system/files/osdi23-wei-rdma.pdf">No
-  Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for
-  Serverless Computing (2023)</a>
+      #paper#
     </td>
   </tr>
 
@@ -362,8 +341,7 @@ elastic ephemeral storage for serverless analytics (2018)</a>
       Mon 12/4
     </td>
     <td>
-      <a href="https://abelay.github.io/6828seminar/papers/weiner:tmo.pdf">TMO:
-Transparent Memory Offloading in Datacenters (2022)</a>
+      #paper#
     </td>
   </tr>
 
@@ -372,8 +350,7 @@ Transparent Memory Offloading in Datacenters (2022)</a>
       Wed 12/6
     </td>
     <td>
-      <a href="http://www.abelay.me/data/nu_nsdi23.pdf">Nu: Achieving
-  Microsecond-Scale Resource Fungibility with Logical Processes (2023)</a>
+      #paper#
     </td>
    </tr>
 
@@ -425,4 +402,3 @@ Transparent Memory Offloading in Datacenters (2022)</a>
   <a href="https://dl.acm.org/doi/pdf/10.1145/3530892">WISEFUSE: Workload Characterization and DAG Transformation for Serverless Workflows</a>
 
 </html>
-
