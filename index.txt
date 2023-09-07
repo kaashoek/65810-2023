@@ -6,9 +6,7 @@
 
 <body>
   
-<h1>6.5810: Operating Systems Research Seminar: Serverless computing</h1>
-
-<p>Note: this page is under development.
+<h1>6.5810 (F2023): Operating Systems Research Seminar: Serverless computing</h1>
 
 <p>6.5810 is a graduate-level seminar-style class focused on research
 in operating systems. It assumes you have
@@ -50,7 +48,7 @@ of the class.
     </td>
 
     <td>
-      <a href="">SigmaOS tutorial</a>,
+      <a href="tutorial.html">SigmaOS tutorial</a>,
       #paper#
     </td>
 
@@ -157,7 +155,7 @@ of the class.
 
   <tr>
     <td>
-      Mon 10/4
+      Wed 10/4
     </td>
     <td>
       Project conferences (1)
