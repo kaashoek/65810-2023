@@ -48,7 +48,7 @@ elastic ephemeral storage for serverless analytics (2018) (hmng)</a>
 <a href="https://arxiv.org/pdf/2208.13068">Apiary: A DBMS-Integrated
   Transactional Function-as-a-Service Framework (2022) (pkafle)</a>
 
-<a href="https://stephanie-wang.github.io/pdfs/nsdi21-ownership.pdf">Ownership:
+<a href="https://www.usenix.org/system/files/nsdi21-wang.pdf">Ownership:
   A Distributed Futures System for Fine-Grained Tasks (2021) (bsdinis)</a>
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3445814.3446701">Nightcore:
