@@ -373,7 +373,7 @@ of the class.
       Mon 12/11
     </td>
     <td>
-      #paper#
+      Project presentations
     </td>
   </tr>
 
