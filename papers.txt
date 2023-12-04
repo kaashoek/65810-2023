@@ -62,7 +62,6 @@ elastic ephemeral storage for serverless analytics (2018) (hmng)</a>
 <a href="https://abelay.github.io/6828seminar/papers/weiner:tmo.pdf">TMO:
 Transparent Memory Offloading in Datacenters (2022) (ayz)</a>
 
-<a href="http://www.abelay.me/data/nu_nsdi23.pdf">Nu: Achieving
+<a href="https://www.usenix.org/system/files/nsdi23-ruan.pdf">Nu: Achieving
   Microsecond-Scale Resource Fungibility with Logical Processes (2023)
   (bencw12)</a>
-
